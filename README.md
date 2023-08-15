@@ -48,7 +48,7 @@ api_key=<your-alphavantage-api-key>
 
 In order to run the examples from this repo, you will need to set up a database and create a keyspace.
 The details of how to do this should be found under the following link
-<link>
+<[link](https://docs.datastax.com/en/astra-serverless/docs/manage/db/manage-create.html)>
 
 ### Setup the DataBase Details
 
