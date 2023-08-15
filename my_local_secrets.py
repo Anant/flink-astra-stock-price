@@ -1,4 +1,3 @@
-ALPHA_API_KEY="<alpha_api_key>"
 client_id="<astra_client_id>"
 client_secret="<astra_client_secret>"
 token="<Astra_token"
